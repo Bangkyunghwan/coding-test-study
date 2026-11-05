@@ -11,6 +11,7 @@ public class Solution {
         int T=sc.nextInt();
 
         for(int test_case = 1; test_case <= T; test_case++){
+
             ArrayList<Integer> array = new ArrayList<Integer>();
 
             int count = sc.nextInt();
