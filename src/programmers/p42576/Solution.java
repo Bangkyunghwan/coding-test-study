@@ -1,4 +1,4 @@
-package programmers.완주하지_못한_선수;
+package programmers.p42576;
 
 import java.util.*;
 
