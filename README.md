@@ -36,3 +36,4 @@ Java로 알고리즘 문제를 풀고 학습 내용을 기록하는 저장소입
 | 42576 | [완주하지 못한 선수](src/programmers/p42576/programmers_완주하지_못한%20선수.md) | 정렬, 문자열 | 2026-11-19 |
 | 42862 | [체육복](src/programmers/p42862/Programmers_체육복.md) | 그리디, 정렬 | 2026-11-20 |
 | 43165 | [타겟 넘버](src/programmers/p43165/Programmers_타겟_넘버.md) | DFS, 완전탐색 | 2026-11-24 |
+| 84512 | [모음사전](src/programmers/p84512/Programmers_모음사전.md) | DFS, 완전탐색 | 2026-11-24 |
